@@ -170,7 +170,7 @@ const inputStyle: React.CSSProperties = {
   borderRadius: 6,
   border: '1px solid var(--click-color-border-default, #ccc)',
   width: '100%',
-  color: 'inherit',
+  color: '#fff',
   background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
 };
 

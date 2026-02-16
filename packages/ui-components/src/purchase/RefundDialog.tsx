@@ -126,6 +126,7 @@ export function RefundDialog({ purchase, open, onClose, mode, refundType = 'refu
       <div
         style={{
           background: 'var(--click-color-bg-default, #fff)',
+          color: '#1a1a2e',
           borderRadius: 12,
           padding: 24,
           width: 420,
@@ -237,6 +238,6 @@ const inputStyle: React.CSSProperties = {
   borderRadius: 6,
   border: '1px solid var(--click-color-border-default, #ccc)',
   marginTop: 4,
-  color: 'inherit',
+  color: '#1a1a2e',
   background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
 };

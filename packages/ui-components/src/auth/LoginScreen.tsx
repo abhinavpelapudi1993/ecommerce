@@ -236,7 +236,7 @@ const inputStyle: React.CSSProperties = {
   outline: 'none',
   boxSizing: 'border-box',
   transition: 'border-color 0.15s',
-  color: 'inherit',
+  color: '#1a1a2e',
   background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
 };
 

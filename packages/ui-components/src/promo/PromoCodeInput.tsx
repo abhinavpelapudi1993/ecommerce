@@ -42,7 +42,7 @@ export function PromoCodeInput({ onValidate, onApply }: PromoCodeInputProps) {
             padding: '8px 12px',
             borderRadius: 6,
             border: '1px solid var(--click-color-border-default, #ccc)',
-            color: 'inherit',
+            color: '#fff',
             background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
           }}
         />

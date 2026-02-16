@@ -237,6 +237,7 @@ export function RefundRequestsPage() {
           <div
             style={{
               background: 'var(--click-color-bg-default, #fff)',
+              color: '#1a1a2e',
               borderRadius: 12,
               padding: 24,
               width: 420,
@@ -314,6 +315,7 @@ export function RefundRequestsPage() {
           <div
             style={{
               background: 'var(--click-color-bg-default, #fff)',
+              color: '#1a1a2e',
               borderRadius: 12,
               padding: 24,
               width: 420,
@@ -363,7 +365,7 @@ const inputStyle: React.CSSProperties = {
   border: '1px solid var(--click-color-border-default, #ccc)',
   width: '100%',
   marginTop: 4,
-  color: 'inherit',
+  color: '#1a1a2e',
   background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
 };
 

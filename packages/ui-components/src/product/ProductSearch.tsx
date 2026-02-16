@@ -90,7 +90,7 @@ const searchInput: React.CSSProperties = {
   border: '1px solid var(--click-color-border-default, #ccc)',
   fontSize: 14,
   background: 'var(--click-color-bg-panel, #fff)',
-  color: 'inherit',
+  color: '#1a1a2e',
   outline: 'none',
   boxSizing: 'border-box',
 };

@@ -82,7 +82,7 @@ const inputStyle: React.CSSProperties = {
   border: '1px solid var(--click-color-border-default, #555)',
   fontSize: 14,
   background: 'var(--click-color-bg-panel, rgba(255,255,255,0.05))',
-  color: 'inherit',
+  color: '#fff',
 };
 
 const emptyState: React.CSSProperties = {
